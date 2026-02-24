@@ -1,0 +1,25 @@
+body {
+    background-color: darkred;
+    background-image: url(assets/deadpoolimg3.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+img {
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+footer p {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkgoldenrod;
+    padding: 100px;
+}
