@@ -14,6 +14,7 @@ img {
 }
 
 footer p {
+    padding-bottom: 20px;
     color: white;
     font-size: 20px;
     text-align: center;
@@ -21,7 +22,7 @@ footer p {
 
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: darkgoldenrod;
+    color: rgba(219, 173, 54, 0.781);
     padding: 50px;
 }
 
@@ -29,6 +30,10 @@ section{
     padding: 10px;
 }
 
-section h1{
-    color: white;
+a{
+    color: lightgrey
+}
+
+section h2{
+    color: rgb(219, 209, 116);
 }
