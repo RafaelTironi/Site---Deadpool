@@ -1,9 +1,10 @@
 body {
     background-color: darkred;
-    background-image: url(assets/deadpoolimg3.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 img {
@@ -13,7 +14,7 @@ img {
 }
 
 footer p {
-    color: black;
+    color: white;
     font-size: 20px;
     text-align: center;
 }
@@ -21,5 +22,13 @@ footer p {
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: darkgoldenrod;
-    padding: 100px;
+    padding: 50px;
+}
+
+section{
+    padding: 10px;
+}
+
+section h1{
+    color: white;
 }
