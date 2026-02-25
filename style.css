@@ -1,10 +1,12 @@
 body {
-    background-color: darkred;
+    background-image: url(assets/background2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    color: white;
+    color:white;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-position: left;
+       background-attachment: fixed;
 }
 
 img {
@@ -18,6 +20,7 @@ footer p {
     color: white;
     font-size: 20px;
     text-align: center;
+
 }
 
 h1 {
@@ -29,6 +32,9 @@ h1 {
 section{
     padding: 10px;
 }
+article{
+    padding: 30px;
+}
 
 a{
     color: lightgrey
@@ -36,4 +42,8 @@ a{
 
 section h2{
     color: rgb(219, 209, 116);
+}
+
+p{
+    font-size: 20px;
 }
